@@ -1,9 +1,12 @@
 h1{
      color: rgb(12, 14, 14);
+     text-align: center;
 }
 
 
 ul {
+    margin-left: 460px;
+    margin-top: 50px;
     display: flex;
     gap: 30px;
 }
@@ -13,4 +16,15 @@ li {
 }
 body{
     background-color: lightblue;
+}
+h2{
+    text-align: center;
+    margin-top: 70px;
+}
+p{
+    text-align: center;
+    margin-top: 75px;
+}
+.footer{
+    margin-top: 20%;
 }
