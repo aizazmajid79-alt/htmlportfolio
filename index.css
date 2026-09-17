@@ -1,0 +1,16 @@
+h1{
+     color: rgb(12, 14, 14);
+}
+
+
+ul {
+    display: flex;
+    gap: 30px;
+}
+
+li {
+    list-style: none;
+}
+body{
+    background-color: lightblue;
+}
